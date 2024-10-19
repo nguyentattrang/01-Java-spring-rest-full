@@ -1,3 +1,5 @@
+# Chú thích: cái này dùng để chạy trên macos
+
 #!/bin/sh
 
 #

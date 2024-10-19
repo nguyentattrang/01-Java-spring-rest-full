@@ -1,3 +1,7 @@
+
+# Những cái forder ẩn như: gradle, vscode là ko đẩy lên git
+
+
 HELP.md
 .gradle
 build/

@@ -1,3 +1,8 @@
+@REM  Chú thích: cái này dùng để chạy trên windows
+
+
+
+
 @rem
 @rem Copyright 2015 the original author or authors.
 @rem
